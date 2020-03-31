@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:height="12dp" android:width="25dp" android:viewportWidth="25" android:viewportHeight="12">
+    <group>
+        <path android:fillColor="#00000000" android:pathData="M0.5,2.6667C0.5,1.47 1.47,0.5 2.6667,0.5H19.3333C20.53,0.5 21.5,1.47 21.5,2.6667V8.6667C21.5,9.8633 20.53,10.8333 19.3333,10.8333H2.6667C1.47,10.8333 0.5,9.8633 0.5,8.6667V2.6667Z" android:strokeColor="#f2f4ff" android:strokeWidth="1"/>
+        <path android:fillColor="#f2f4ff" android:pathData="M23,3.6667V7.6667C23.8047,7.3279 24.328,6.5398 24.328,5.6667C24.328,4.7935 23.8047,4.0054 23,3.6667Z"/>
+    </group>
+    <group android:name="charge">
+        <path android:fillColor="#f2f4ff" android:pathData="M10.0764,3.0016L16.9997,6.6919L11.9233,6.6931L11.9237,8.5391L5.0004,4.8487L10.0769,4.8476L10.0764,3.0016Z"/>
+    </group>
+</vector>

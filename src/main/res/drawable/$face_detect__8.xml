@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:ordering="together">
+    <objectAnimator android:interpolator="@drawable/$$face_detect__8__0" android:duration="250" android:startOffset="0" android:valueFrom="0.6" android:valueTo="1" android:valueType="floatType" android:propertyName="scaleX"/>
+    <objectAnimator android:interpolator="@drawable/$$face_detect__8__1" android:duration="250" android:startOffset="0" android:valueFrom="0.6" android:valueTo="1" android:valueType="floatType" android:propertyName="scaleY"/>
+    <objectAnimator android:interpolator="@drawable/$$face_detect__8__2" android:duration="1042" android:startOffset="250" android:valueFrom="1" android:valueTo="1" android:valueType="floatType" android:propertyName="scaleX"/>
+    <objectAnimator android:interpolator="@drawable/$$face_detect__8__3" android:duration="1042" android:startOffset="250" android:valueFrom="1" android:valueTo="1" android:valueType="floatType" android:propertyName="scaleY"/>
+    <objectAnimator android:interpolator="@drawable/$$face_detect__8__4" android:duration="208" android:startOffset="1292" android:valueFrom="1" android:valueTo="0.6" android:valueType="floatType" android:propertyName="scaleX"/>
+    <objectAnimator android:interpolator="@drawable/$$face_detect__8__5" android:duration="208" android:startOffset="1292" android:valueFrom="1" android:valueTo="0.6" android:valueType="floatType" android:propertyName="scaleY"/>
+    <objectAnimator android:interpolator="@drawable/$$face_detect__8__6" android:duration="208" android:startOffset="1500" android:valueFrom="0.6" android:valueTo="1" android:valueType="floatType" android:propertyName="scaleX"/>
+    <objectAnimator android:interpolator="@drawable/$$face_detect__8__7" android:duration="208" android:startOffset="1500" android:valueFrom="0.6" android:valueTo="1" android:valueType="floatType" android:propertyName="scaleY"/>
+    <objectAnimator android:interpolator="@drawable/$$face_detect__8__8" android:duration="1000" android:startOffset="1708" android:valueFrom="1" android:valueTo="1" android:valueType="floatType" android:propertyName="scaleX"/>
+    <objectAnimator android:interpolator="@drawable/$$face_detect__8__9" android:duration="1000" android:startOffset="1708" android:valueFrom="1" android:valueTo="1" android:valueType="floatType" android:propertyName="scaleY"/>
+    <objectAnimator android:interpolator="@drawable/$$face_detect__8__10" android:duration="292" android:startOffset="2708" android:valueFrom="1" android:valueTo="0.6" android:valueType="floatType" android:propertyName="scaleX"/>
+    <objectAnimator android:interpolator="@drawable/$$face_detect__8__11" android:duration="292" android:startOffset="2708" android:valueFrom="1" android:valueTo="0.6" android:valueType="floatType" android:propertyName="scaleY"/>
+</set>

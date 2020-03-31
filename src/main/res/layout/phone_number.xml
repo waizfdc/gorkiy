@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_gravity="center" android:orientation="horizontal" android:tag="layout/phone_number_0" android:layout_width="match_parent" android:layout_height="@dimen/phone_item_height">
+    <com.google.android.material.textview.MaterialTextView android:textAppearance="@style/Body1" android:textSize="22sp" android:gravity="center" android:layout_gravity="center" android:tag="binding_1" android:background="@drawable/cyrcle_background" android:layout_width="@dimen/phone_number_icon" android:layout_height="@dimen/phone_number_icon" android:backgroundTint="@color/light_blue"/>
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="0dp" android:layout_height="match_parent" android:layout_marginLeft="16dp" android:layout_weight="1">
+        <com.google.android.material.textview.MaterialTextView android:textAppearance="@style/Body1" android:textSize="24sp" android:tag="binding_2" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <com.google.android.material.textview.MaterialTextView android:textAppearance="@style/TextAppearance.MaterialComponents.Subtitle1" android:textSize="22sp" android:tag="binding_3" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    </LinearLayout>
+</LinearLayout>

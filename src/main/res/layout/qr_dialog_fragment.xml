@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:tag="layout/qr_dialog_fragment_0" android:background="@android:color/white" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.appcompat.widget.AppCompatImageView android:id="@+id/qrDialog_img_qr" android:tag="binding_1" android:layout_width="match_parent" android:layout_height="match_parent"/>
+</RelativeLayout>

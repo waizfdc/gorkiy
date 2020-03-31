@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:ordering="together">
+    <objectAnimator android:interpolator="@drawable/$$face_detect__3__0" android:duration="1000" android:startOffset="0" android:valueFrom="#000000" android:valueTo="#000000" android:valueType="3" android:propertyName="strokeColor"/>
+    <objectAnimator android:interpolator="@drawable/$$face_detect__3__1" android:duration="500" android:startOffset="1000" android:valueFrom="#000000" android:valueTo="#ffffff" android:valueType="3" android:propertyName="strokeColor"/>
+    <objectAnimator android:interpolator="@drawable/$$face_detect__3__2" android:duration="500" android:startOffset="1500" android:valueFrom="#ffffff" android:valueTo="#000000" android:valueType="3" android:propertyName="strokeColor"/>
+    <objectAnimator android:interpolator="@drawable/$$face_detect__3__3" android:duration="1000" android:startOffset="2000" android:valueFrom="#000000" android:valueTo="#000000" android:valueType="3" android:propertyName="strokeColor"/>
+</set>

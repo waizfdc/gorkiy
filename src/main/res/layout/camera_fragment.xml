@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:background="@color/colorPrimaryDark" android:layout_width="match_parent" android:layout_height="match_parent" android:keepScreenOn="true">
+    <androidx.camera.view.PreviewView android:id="@+id/camera_preview" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="@dimen/camera_padding" android:layout_marginBottom="@dimen/camera_padding"/>
+    <androidx.appcompat.widget.AppCompatImageView android:id="@+id/camera_face_detector_animation" android:visibility="visible" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <androidx.appcompat.widget.AppCompatButton android:textSize="24sp" android:layout_gravity="bottom" android:id="@+id/camera_btn_send" android:visibility="gone" android:layout_width="match_parent" android:layout_height="@dimen/button_height" android:text="@string/send" android:backgroundTint="@color/colorStart" android:backgroundTintMode="multiply" style="@style/ButtonTheme"/>
+</FrameLayout>
